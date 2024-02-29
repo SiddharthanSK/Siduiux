@@ -6,3 +6,6 @@ DAY 2
 DAY 3
 *Figma sign in
 *Gmail sketch
+DAY 4
+*Gmail outlook using figma
+*Instagram sketch 

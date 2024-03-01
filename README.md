@@ -8,4 +8,7 @@ DAY 3
 *Gmail sketch
 DAY 4
 *Gmail outlook using figma
-*Instagram sketch 
+*Instagram sketch
+DAY 5
+*Works practiced in figma
+*Gapy sketch 

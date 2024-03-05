@@ -12,3 +12,5 @@ DAY 4
 DAY 5
 *Works practiced in figma
 *Gapy sketch 
+DAY 6
+*Colour combination 

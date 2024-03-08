@@ -14,3 +14,7 @@ DAY 5
 *Gapy sketch 
 DAY 6
 *Colour combination 
+DAY 7
+*Absent for the class
+DAY 8
+*Figma work on picture 

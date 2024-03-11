@@ -18,3 +18,7 @@ DAY 7
 *Absent for the class
 DAY 8
 *Figma work on picture 
+DAY 9
+*Animation in prototype
+DAY 10
+*Slides in vertical 
